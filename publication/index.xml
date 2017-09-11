@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Samridhi Choudhary</title>
+    <link>https://samridhishree.github.io/publication/</link>
+    <description>Recent content in Publications on Samridhi Choudhary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Samridhi Choudhary</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Linguistic Markers of Influence in Informal Interactions</title>
+      <link>https://samridhishree.github.io/publication/linguistic/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://samridhishree.github.io/publication/linguistic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advanced text and video analytics for proactive decision making</title>
+      <link>https://samridhishree.github.io/publication/pems/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://samridhishree.github.io/publication/pems/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
